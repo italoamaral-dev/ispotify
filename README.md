@@ -1,2 +1,2 @@
 # ispotify
-Last challenge iJunior
+Front end: iSpotify
