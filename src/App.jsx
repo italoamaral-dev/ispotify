@@ -69,7 +69,7 @@ function App() {
 
           </div>
           <div className="artist7">
-            <p className="artist7-name">Artic Monkeys</p>
+            <p className="artist7-name">Arctic Monkeys</p>
             <p className="artist7-section">Artista</p>
 
           </div>
